@@ -1,85 +1,95 @@
-# 💫 About Me:
+# Hi, I'm Yadnesh Narawade 
 
-🔹 **Currently Building:**  
-A **full-stack influencer marketing platform** that connects advertisers with influencers for seamless campaign management and payouts.  
+I’m a **BSc Computer Science undergraduate** and an aspiring **Full-Stack Web Developer** focused on building **practical, production-style applications**.
 
-🔹 **What I’ve Built:**  
-- **Crypto Arbitrage App** – profits signals on trading opportunities across exchanges  
-- **Upclass.dev** – a modern LMS built with **React.js, Node.js, Express, MongoDB**  
+I started my journey with **Flutter** and gained real-world experience through an internship.  
+Over time, I pivoted toward **Web & Full-Stack development** to work on scalable systems, modern architectures, and long-term career growth.
 
-🔹 **Learning Journey:**  
-- Completed **MERN stack** development  
-- Currently exploring **Next.js** for production-ready full-stack apps  
-- Strengthening **core CS subjects** such as **Operating Systems** and **Computer Networks**  
-
-🔹 **Ask Me About:**  
-- **MERN / Next.js Stack** (React.js, Node.js, Express, MongoDB)  
-- **Scalable Backends** (JWT Auth, REST APIs, WebSockets)  
-- **Real-time & event-driven apps**  
-- Past experience in **Flutter**, **Dart**, and **Firebase**  
+Currently, my goal is simple:  
+**become job-ready by building solid full-stack projects with clean architecture and real use cases.**
 
 ---
 
-
-## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadnesh-narawade)
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+## Current Focus
+- Strengthening **JavaScript fundamentals**
+- Building full-stack apps with **Next.js**
+- Backend development using **Node.js**
+- Working with **SQL databases** (PostgreSQL) using **Prisma / Supabase**
+- Gradually adopting **TypeScript** in real projects
+- Improving code structure, scalability, and maintainability
 
 ---
 
-### ⚙️ Backend & Server
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![WebSockets](https://img.shields.io/badge/WebSockets-%23007ACC.svg?style=for-the-badge&logo=websocket&logoColor=white)
+## Projects (Selected)
+- **Udyojaks** – An early-stage influencer–advertiser platform prototype built with **Next.js**
+- **Upclass.dev** – A modern LMS platform built with **React, Node.js, Express, MongoDB**
+- **Crypto Arbitrage App** – Backend-heavy app exploring real-time data and opportunity detection
 
 ---
 
-### 🌐 Frontend & UI
-![React.js](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 
-### 🧩 Database & Auth
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-005571?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-007ACC?style=for-the-badge&logo=websocket&logoColor=white)
+
+---
+
+### Database & Auth
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFD700?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-### 📱 Cross Platform
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+### Mobile (Previous Experience)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ynarawade&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ynarawade&theme=dark&hide_border=false)<br/>
+## Learning Philosophy
+- Learn by **building**, not just watching tutorials
+- Focus on **fundamentals over frameworks**
+- Prefer **clarity and simplicity** over over-engineering
+- Improve **one stack deeply** instead of chasing everything
+
+---
+
+## Current Goals
+- Build 2–3 strong **Next.js full-stack projects**
+- Strengthen backend & database design skills
+- Improve system design thinking (auth, data flow, APIs)
+- Prepare a clean **portfolio + resume**
+- Apply for **Web / Full-Stack developer roles** in 2026
+
+---
+
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadnesh-narawade)
+
+---
+
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=ynarawade&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ynarawade&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ynarawade&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 🚀 Current Goals:
-- ✅ Completed `upclass.dev` – a full-featured LMS built with Node.js, Express & MongoDB  
-- ✅ Learned WebSockets & implemented real-time collaboration in projects  
-- 📚 Practicing DSA in JavaScript daily
-- 🧠 Strengthening CS fundamentals — currently studying Operating Systems  
-- 🛠️ Building a real-world arbitrage app with backend + WebSocket sync  
-- 🧪 Up next: Learn Prisma ORM, PostgreSQL, and advanced database design  
-- 🌐 Explore SSR/CSSR, TypeScript best practices, and scalable full-stack architecture  
-- 💼 Prepare portfolio and apply for high-learning internships by late 2025
-
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Dev-Yadnesh8&icon=0&color=0)](https://visitcount.itsvg.in)
