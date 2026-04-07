@@ -45,17 +45,16 @@
 | [**UpClass.dev**](https://github.com/ynarawade/UpClass.dev) | Full-stack LMS with course management, auth & content delivery | React, Express, MongoDB |
 
 ###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ynarawade&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=ynarawade&theme=dracula&no-frame=false&margin-w=8&margin-h=8" height="150" />
+  <img src="https://streak-stats.demolab.com?user=ynarawade&theme=dracula&hide_border=true" height="250" />
+  <img src="https://github-profile-trophy.vercel.app?username=ynarawade&theme=dracula&no-frame=true&margin-w=8&margin-h=8" height="150" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ynarawade&theme=dracula&show_icons=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynarawade&theme=dracula&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ynarawade&theme=dracula&show_icons=true&count_private=true&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynarawade&theme=dracula&layout=compact&hide_border=true" height="150" />
 </div>
 
 ###
