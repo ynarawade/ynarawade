@@ -1,46 +1,78 @@
-# Hey, I'm Yadnesh 👋
+<h1 align="center">Hey, I'm Yadnesh 👋</h1>
 
-I'm a final-year BSc CS student from Pune, building **real-time financial tools** for Indian crypto markets.
+<p align="center">
+  Final-year BSc CS student from Pune 🇮🇳 &nbsp;|&nbsp; Building real-time financial tools for Indian crypto markets
+  <br/>
+  Full-Stack Developer &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Node.js
+</p>
 
-Not todo apps. Not clones. Actual tools that track arbitrage opportunities, funding rates, and spread across live exchanges.
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" />
+</div>
 
-## What I've Built
+###
 
-### [Gainly](https://github.com/ynarawade/crypto-arbitrage-app) — Spot Arbitrage Tracker
-Tracks real-time price differences across Indian crypto exchanges to surface arbitrage opportunities.  
-**Stack:** TypeScript, Node.js, WebSockets, REST APIs
+## 🔨 What I've Built
 
-### NJ Dex — Futures & Funding Arb Calculator *(private)*
-Calculates futures spread and funding rate arbitrage opportunities across exchanges. Deployed and live.  
-**Stack:** TypeScript, Next.js, Node.js, Express  
-🔗 [Live Demo](https://nj-dex-fe.vercel.app)
+| Project | Description | Stack |
+|---|---|---|
+| [**Gainly**](https://github.com/ynarawade/crypto-arbitrage-app) | Real-time spot arbitrage tracker across Indian crypto exchanges | TypeScript, Node.js, WebSockets |
+| [**NJ Dex**](https://nj-dex-fe.vercel.app) *(private)* | Futures spread & funding rate arb calculator — live on Vercel + Render | Next.js, Node.js, Express |
+| [**UpClass.dev**](https://github.com/ynarawade/UpClass.dev) | Full-stack LMS with course management, auth & content delivery | React, Express, MongoDB |
 
-### [UpClass.dev](https://github.com/ynarawade/UpClass.dev) — LMS Platform
-Full-stack learning management system with course management, auth, and content delivery.  
-**Stack:** React, Node.js, Express, MongoDB
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ynarawade&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=ynarawade&theme=dracula&no-frame=false&margin-w=8&margin-h=8" height="150" />
+</div>
 
-## Tech Stack
+###
 
-**Frontend:** Next.js, React, TypeScript, TailwindCSS  
-**Backend:** Node.js, Express, REST, WebSockets  
-**Database:** PostgreSQL, MongoDB, Prisma, Supabase  
-**Mobile:** Flutter *(previous experience)*  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ynarawade&theme=dracula&show_icons=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynarawade&theme=dracula&layout=compact" height="150" />
+</div>
 
----
+###
 
-## Currently
+<img src="https://raw.githubusercontent.com/ynarawade/ynarawade/output/snake.svg" />
 
-- Deepening my understanding of real-time data systems and backend architecture
-- Strengthening TypeScript and system design fundamentals
-- Open to **internships and full-time roles** in web/full-stack development
+###
 
----
+<div align="center">
 
-## Connect
+  <a href="https://www.linkedin.com/in/yadnesh-narawade">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadnesh-narawade)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ynarawade)
+
+  <a href="https://www.youtube.com/@YadneshNarawade-x5f">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" />
+  </a>
+
+</div>
